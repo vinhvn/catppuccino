@@ -1,6 +1,6 @@
 # catppuccino
 
-A custom catppuccin oh-my-zsh config
+A custom catppuccin oh-my-psh config
 
 ## Preview
 
